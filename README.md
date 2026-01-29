@@ -1,3 +1,5 @@
+![Banner image] (https://github.com/pratik2507/Real-Estate-Lead-Automation-System-n8n-/blob/main/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+# n8n - Secure Workflow Automation for Technical Teams
 https://pratik2507.github.io/Real-Estate-Lead-Automation-System-n8n-/
 - Goal: Automate real estate lead collection, storage, and client communication workflow.
 - Key Features: Automated data capture, Google Sheets integration, auto-reply system, and workflow orchestration using n8n.
@@ -57,7 +59,8 @@ This resulted in **lost leads, delayed responses, and poor sales tracking**.
 - Scalable automation workflows  
 - No-code / low-code automation architecture  
 
----
+---![n8n.io - Screenshot](https://github.com/pratik2507/Real-Estate-Lead-Automation-System-n8n-/blob/main/n8n-screenshot-readme.png)
+
 
 ## Business impact
 - Eliminated manual lead entry  
