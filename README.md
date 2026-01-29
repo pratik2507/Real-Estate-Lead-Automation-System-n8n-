@@ -1,3 +1,4 @@
+https://pratik2507.github.io/Real-Estate-Lead-Automation-System-n8n-/
 - Goal: Automate real estate lead collection, storage, and client communication workflow.
 - Key Features: Automated data capture, Google Sheets integration, auto-reply system, and workflow orchestration using n8n.
 - Business Applications: Real estate lead management, CRM automation, sales pipeline automation, and customer engagement workflows.
